@@ -23,7 +23,7 @@
     <ProjectGuid>{4556C56A-BAF7-476E-A03A-D81777D719B3}</ProjectGuid>
     <RootNamespace>KostinStack</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
-    <ProjectName>Queue</ProjectName>
+    <ProjectName>Queue(create and delete every second element)</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

@@ -26,6 +26,7 @@
     <ProjectGuid>{32E75B9C-206A-4831-9AD5-C477D4B2C8A1}</ProjectGuid>
     <RootNamespace>drawing</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
+    <ProjectName>Labirinth(graphics)</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

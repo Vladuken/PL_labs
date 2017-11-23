@@ -9,7 +9,7 @@
 #include <locale.h>
 #define MAX_LEN 256
 
-//
+//построение бинарного дерева, его вывод в консоль и вывод его листьев
 
 typedef char dataType;
 

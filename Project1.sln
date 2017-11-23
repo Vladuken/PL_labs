@@ -3,17 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27004.2002
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "var1", "var1\var1.vcxproj", "{96E1CA01-2892-44EA-BBBA-DF34A4B64E33}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "files lab", "var1\var1.vcxproj", "{96E1CA01-2892-44EA-BBBA-DF34A4B64E33}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Queue", "KostinStack\KostinStack.vcxproj", "{4556C56A-BAF7-476E-A03A-D81777D719B3}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Queue(create and delete every second element)", "KostinStack\KostinStack.vcxproj", "{4556C56A-BAF7-476E-A03A-D81777D719B3}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "playground", "playground\playground.vcxproj", "{49DF63B3-A70F-4EBB-AD64-C012B4209B96}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "trees(creating,printing, printing leaves)", "trees\trees.vcxproj", "{374807B7-8349-4D9D-96CC-1DB69380B854}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "trees", "trees\trees.vcxproj", "{374807B7-8349-4D9D-96CC-1DB69380B854}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "trees(creating from postfix notation,printing, postfix notation by stack)", "newlabtrees\newlabtrees.vcxproj", "{3803AA0E-E179-4952-B46B-1BA7CC24D083}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "newlabtrees", "newlabtrees\newlabtrees.vcxproj", "{3803AA0E-E179-4952-B46B-1BA7CC24D083}"
-EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "drawing", "drawing\drawing.vcxproj", "{32E75B9C-206A-4831-9AD5-C477D4B2C8A1}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Labirinth(graphics)", "drawing\drawing.vcxproj", "{32E75B9C-206A-4831-9AD5-C477D4B2C8A1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,14 +37,6 @@ Global
 		{4556C56A-BAF7-476E-A03A-D81777D719B3}.Release|x64.Build.0 = Release|x64
 		{4556C56A-BAF7-476E-A03A-D81777D719B3}.Release|x86.ActiveCfg = Release|Win32
 		{4556C56A-BAF7-476E-A03A-D81777D719B3}.Release|x86.Build.0 = Release|Win32
-		{49DF63B3-A70F-4EBB-AD64-C012B4209B96}.Debug|x64.ActiveCfg = Debug|x64
-		{49DF63B3-A70F-4EBB-AD64-C012B4209B96}.Debug|x64.Build.0 = Debug|x64
-		{49DF63B3-A70F-4EBB-AD64-C012B4209B96}.Debug|x86.ActiveCfg = Debug|Win32
-		{49DF63B3-A70F-4EBB-AD64-C012B4209B96}.Debug|x86.Build.0 = Debug|Win32
-		{49DF63B3-A70F-4EBB-AD64-C012B4209B96}.Release|x64.ActiveCfg = Release|x64
-		{49DF63B3-A70F-4EBB-AD64-C012B4209B96}.Release|x64.Build.0 = Release|x64
-		{49DF63B3-A70F-4EBB-AD64-C012B4209B96}.Release|x86.ActiveCfg = Release|Win32
-		{49DF63B3-A70F-4EBB-AD64-C012B4209B96}.Release|x86.Build.0 = Release|Win32
 		{374807B7-8349-4D9D-96CC-1DB69380B854}.Debug|x64.ActiveCfg = Debug|x64
 		{374807B7-8349-4D9D-96CC-1DB69380B854}.Debug|x64.Build.0 = Debug|x64
 		{374807B7-8349-4D9D-96CC-1DB69380B854}.Debug|x86.ActiveCfg = Debug|Win32

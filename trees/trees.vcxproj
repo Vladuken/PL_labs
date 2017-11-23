@@ -23,6 +23,7 @@
     <ProjectGuid>{374807B7-8349-4D9D-96CC-1DB69380B854}</ProjectGuid>
     <RootNamespace>trees</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
+    <ProjectName>trees(creating,printing, printing leaves)</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

@@ -23,6 +23,7 @@
     <ProjectGuid>{3803AA0E-E179-4952-B46B-1BA7CC24D083}</ProjectGuid>
     <RootNamespace>newlabtrees</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
+    <ProjectName>trees(creating from postfix notation,printing, postfix notation by stack)</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
