@@ -1,4 +1,0 @@
-﻿  Source.c
-c:\users\tom\source\repos\pl_labs\var1\source.c(32): warning C4013: srand: нет определения; предполагается "extern" с возвратом типа "int"
-c:\users\tom\source\repos\pl_labs\var1\source.c(32): warning C4013: time: нет определения; предполагается "extern" с возвратом типа "int"
-  var1.vcxproj -> C:\Users\Tom\source\repos\PL_labs\x64\Debug\var1.exe

@@ -1,3 +1,0 @@
-﻿  Source.c
-c:\users\tom\source\repos\pl_labs\drawing\source.c(406): warning C4013: time: нет определения; предполагается "extern" с возвратом типа "int"
-  drawing.vcxproj -> C:\Users\Tom\source\repos\PL_labs\x64\Debug\drawing.exe

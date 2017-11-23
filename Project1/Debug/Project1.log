@@ -1,6 +1,0 @@
-﻿  Source.c
-c:\users\tom\source\repos\project1\project1\source.c(25): warning C4013: srand: нет определения; предполагается "extern" с возвратом типа "int"
-c:\users\tom\source\repos\project1\project1\source.c(25): warning C4013: time: нет определения; предполагается "extern" с возвратом типа "int"
-c:\users\tom\source\repos\project1\project1\source.c(46): warning C4013: rand: нет определения; предполагается "extern" с возвратом типа "int"
-c:\users\tom\source\repos\project1\project1\source.c(71): warning C4013: strcpy: нет определения; предполагается "extern" с возвратом типа "int"
-  Project1.vcxproj -> C:\Users\Tom\source\repos\Project1\Debug\Project1.exe
