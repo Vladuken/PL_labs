@@ -1,0 +1,12 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (KostinStack.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  main.c
+c:\users\tom\source\repos\project1\kostinstack\main.c(36): warning C4047: функция: "QUEUE **" отличается по уровням косвенного обращения от "QUEUE *"
+c:\users\tom\source\repos\project1\kostinstack\main.c(36): warning C4024: PrintQ: различные типы для формального и фактического параметров 1
+c:\users\tom\source\repos\project1\kostinstack\main.c(38): warning C4047: функция: "QUEUE **" отличается по уровням косвенного обращения от "QUEUE *"
+c:\users\tom\source\repos\project1\kostinstack\main.c(38): warning C4024: CleanseQ: различные типы для формального и фактического параметров 1
+c:\users\tom\source\repos\project1\kostinstack\main.c(39): warning C4047: функция: "QUEUE **" отличается по уровням косвенного обращения от "QUEUE *"
+c:\users\tom\source\repos\project1\kostinstack\main.c(39): warning C4024: PrintQ: различные типы для формального и фактического параметров 1
+c:\users\tom\source\repos\project1\kostinstack\main.c(61): warning C4013: malloc: нет определения; предполагается "extern" с возвратом типа "int"
+c:\users\tom\source\repos\project1\kostinstack\main.c(83): warning C4047: инициализация: "QUEUE *" отличается по уровням косвенного обращения от "QUEUE **"
+c:\users\tom\source\repos\project1\kostinstack\main.c(101): warning C4047: инициализация: "QUEUE *" отличается по уровням косвенного обращения от "QUEUE **"
+  KostinStack.vcxproj -> C:\Users\Tom\source\repos\Project1\Debug\Queue.exe
